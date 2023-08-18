@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(96, 142, 153) ;
+}
+h1 , h3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: rgba(231, 141, 141, 0.466);
+    border-radius: 5px;
+   
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: rgb(238, 227, 227);
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #131313;
+    color: rgb(0, 0, 0);
+    margin-left: 35%;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #000000;
+}
+p{
+    color: rgb(0, 0, 0);
+   text-align: center;
+}
